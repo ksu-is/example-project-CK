@@ -1,3 +1,8 @@
+#OLD Code Ignore
+.OLDwarthunder-ss.py
+.staging-warthunder-ss.py
+favicon.ico
+##BASE .gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
